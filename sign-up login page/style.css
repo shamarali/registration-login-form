@@ -1,0 +1,73 @@
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+label{
+    margin-left: 200px;
+}
+div{
+    margin-left: 600px;
+}
+.fnln{
+    margin-left: 200px;
+}    
+.email{
+    margin-left: 215px;
+} 
+.dob{
+    margin-left: 185px;
+} 
+.contact{
+    margin-left: 165px;
+} 
+.gender{
+    margin-left: 220px;
+} 
+.Address{
+    margin-left: 210px;
+    height: 20px;
+}
+.City{
+    margin-left: 240px;
+}
+.pin{
+    margin-left: 200px;
+}
+.state{
+    margin-left: 225px;
+}
+.country{
+    margin-left: 205px;
+}
+.oth{
+    margin-left: 500px;
+}
+.th{
+    margin-left: 400px;
+    margin-top: -25px;
+}
+.Courses{
+    display: inline-block;
+}
+.option{
+    margin-left: 200px;
+}
+.submitbutton{
+    margin-left: 600px;
+}
+#email-pass{
+    margin-left: 300px;
+    display: inline-block;
+}
+#enter-email{
+    display: inline-block;
+    margin-left: 50px;
+}
+#enter-enter{
+    display: inline-block;
+    margin-left: 25px;
+}
+#bbbb{
+    margin-left: 590px;
+}
